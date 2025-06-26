@@ -17,7 +17,6 @@ Desain website KriyaKita mengadopsi palet warna *earth tone* yang menenangkan, s
 * **Detail Produk Informatif:** Halaman khusus untuk setiap produk dengan gambar besar, deskripsi lengkap, harga, dan tombol "Pesan via WhatsApp" untuk kemudahan transaksi langsung.
 * **Tentang Kami yang Inspiratif:** Menceritakan kisah di balik KriyaKita, proses produksi, serta menampilkan tim pengrajin, membangun koneksi emosional dengan pembeli.
 * **Halaman Kontak Lengkap:** Menyediakan formulir kontak, *embed* Google Maps untuk lokasi fisik, serta tombol langsung ke WhatsApp dan Instagram untuk berbagai saluran komunikasi.
-* **Navigasi Responsif:** Menu hamburger intuitif di perangkat mobile memastikan navigasi yang mulus di semua ukuran layar.
 * **Footer Multifungsi:** Footer yang informatif dengan logo, navigasi cepat, detail kontak, tautan media sosial, dan formulir berlangganan *newsletter*.
 
 ---
@@ -29,7 +28,5 @@ Website KriyaKita dibangun sepenuhnya menggunakan teknologi dasar pengembangan w
 * **HTML5:** Untuk struktur konten dan semantik halaman web.
 * **CSS3:** Untuk styling, tata letak, dan memastikan responsivitas website di berbagai perangkat.
 * **JavaScript (Vanilla JS):** Untuk menambahkan interaktivitas, seperti fungsionalitas menu hamburger, pemuatan dan filter produk secara dinamis, serta pengelolaan data produk terpusat.
-* **Google Fonts:** Untuk tipografi yang menarik dan konsisten.
-* **Font Awesome:** Untuk ikon-ikon yang memperkaya tampilan visual dan fungsionalitas.
 
 ---
