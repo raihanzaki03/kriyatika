@@ -1,5 +1,5 @@
-Tentu, ini ringkasan detail untuk website UMKM KriyaKita:
-
+Tampilan dari website kriyataka :
+https://lively-semolina-6eb38d.netlify.app/
 ---
 
 ## KriyaKita: Website Kerajinan Tangan Lokal
